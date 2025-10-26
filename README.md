@@ -13,39 +13,39 @@
   <tr>
     <td align="center" valign="top" width="25%">
       <a href="https://github.com/alearecuest/holbertonschool-hbnb">
-        <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/logo.png" width="100" alt="HBNB Clone"/>
+        <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/logo.png" width="90" alt="HBNB Clone"/><br>
+        <b>HBNB Clone</b>
       </a>
-      <br>
-      <b><a href="https://github.com/alearecuest/holbertonschool-hbnb">HBNB Clone</a></b><br>
-      <span style="font-size:90%">Fullstack web application inspired by AirBnB, featuring user registration, property booking and management.</span>
+      <div align="center" style="font-size:90%">
+        Fullstack web application inspired by AirBnB, featuring user registration, property booking and management.
+      </div>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://github.com/alearecuest/SuperSID_Project">
-        <img src="https://github.com/alearecuest/SuperSID_Project/raw/main/images.png" width="100" alt="SuperSID"/>
+        <img src="https://github.com/alearecuest/SuperSID_Project/raw/main/images.png" width="90" alt="SuperSID"/><br>
+        <b>SuperSID</b>
       </a>
-      <br>
-      <b><a href="https://github.com/alearecuest/SuperSID_Project">SuperSID</a></b><br>
-      <span style="font-size:90%">Scientific project for solar radiation analysis in the ionosphere, including data capture and processing.</span>
+      <div align="center" style="font-size:90%">
+        Scientific project for solar radiation analysis in the ionosphere, including data capture and processing.
+      </div>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">
-        <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="100" alt="NASA Space Challenge"/>
+        <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="90" alt="NASA Space Challenge"/><br>
+        <b>NASA Space Challenge</b>
       </a>
-      <br>
-      <b><a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">NASA Space Challenge</a></b><br>
-      <span style="font-size:90%">Excellence-awarded project at NASA Space Apps Challenge. Collaborative development for space solutions.</span>
+      <div align="center" style="font-size:90%">
+        Excellence-awarded project at NASA Space Apps Challenge. Collaborative development for space solutions.
+      </div>
     </td>
     <td align="center" valign="top" width="25%">
       <a href="https://github.com/alearecuest/ProyectoFinal_ELIO">
-        <!-- Si quieres más de una imagen, ponlas horizontalmente y con el mismo tamaño -->
-        <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="100" alt="ELIO"/>
-        <!-- Ejemplo de varias imágenes alineadas -->
-        <!-- <img src="URL_IMAGEN_2" width="45" alt="Logo2"/>
-        <img src="URL_IMAGEN_3" width="45" alt="Logo3"/> -->
+        <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="90" alt="ELIO"/><br>
+        <b>ELIO</b>
       </a>
-      <br>
-      <b><a href="https://github.com/alearecuest/ProyectoFinal_ELIO">ELIO</a></b><br>
-      <span style="font-size:90%">Real client project: Digital medical history assistant for healthcare professionals.</span>
+      <div align="center" style="font-size:90%">
+        Real client project: Digital medical history assistant for healthcare professionals.
+      </div>
     </td>
   </tr>
 </table>
