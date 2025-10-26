@@ -13,7 +13,7 @@
   <tr>
     <td>
       <a href="https://github.com/alearecuest/holbertonschool-hbnb">
-        <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/logo.png" width="100" alt="HBNB Clone"/>
+        <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/logo.png" width="200" alt="HBNB Clone"/>
       </a>
     </td>
     <td>
@@ -28,7 +28,7 @@
     </td>
     <td>
       <a href="https://github.com/alearecuest/ProyectoFinal_ELIO">
-        <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="100" alt="ELIO"/>
+        <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="200" alt="ELIO"/>
       </a>
     </td>
   </tr>
