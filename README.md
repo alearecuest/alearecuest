@@ -13,7 +13,7 @@
   <tr>
     <!-- Logos fila -->
     <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/logo.png" width="150" alt="HBNB Clone"/>
+      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="100" alt="HBNB Clone"/>
     </td>
     <td align="center" valign="middle" width="25%">
       <img src="https://github.com/alearecuest/SuperSID_Project/raw/main/images.png" width="100" alt="SuperSID"/>
