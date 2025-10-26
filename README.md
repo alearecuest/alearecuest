@@ -13,16 +13,16 @@
   <tr>
     <!-- Logos fila -->
     <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="100" alt="HBNB Clone"/>
+      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="120" alt="HBNB Clone"/>
     </td>
     <td align="center" valign="middle" width="25%">
       <img src="https://github.com/alearecuest/SuperSID_Project/raw/main/images.png" width="100" alt="SuperSID"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="130" alt="NASA Space Challenge"/>
+      <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="150" alt="NASA Space Challenge"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="250" alt="ELIO"/>
+      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="270" alt="ELIO"/>
     </td>
   </tr>
   <tr>
