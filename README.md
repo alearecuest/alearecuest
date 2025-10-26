@@ -22,7 +22,7 @@
       <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="150" alt="NASA Space Challenge"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="270" alt="ELIO"/>
+      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="350" alt="ELIO"/>
     </td>
   </tr>
   <tr>
