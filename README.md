@@ -1,4 +1,4 @@
-# Hola, soy Alejandro Arévalo | Hi, I'm Alejandro Arévalo
+# 👋 Hola, soy Alejandro Arévalo | Hi, I'm Alejandro Arévalo
 
 **Especialista IT:** Frontend, Backend, Project Manager, QA  
 **Tecnologías destacadas:** Matlab, TypeScript, JavaScript, Python, SQL, entre otras.  
@@ -7,13 +7,13 @@
 
 ---
 
-## Proyectos Destacados | Featured Projects
+## 🚀 Proyectos Destacados | Featured Projects
 
 <table>
   <tr>
     <td>
-      <a href="[https://github.com/alearecuest/AirBnB-clone](https://github.com/alearecuest/holbertonschool-hbnb.git)">
-        <img src="https://github.com/alearecuest/AirBnB-clone/raw/main/logo.png" width="100" alt="AirBnB Clone"/>
+      <a href="[https://github.com/alearecuest/AirBnB-clone](https://github.com/alearecuest/holbertonschool-hbnb)">
+        <img src="https://github.com/alearecuest/alearecuest/tree/main/logo.png" width="100" alt="AirBnB Clone"/>
       </a>
     </td>
     <td>
@@ -48,13 +48,13 @@
 
 ---
 
-## Tecnologías y Herramientas | Technologies & Tools
+## 💡 Tecnologías y Herramientas | Technologies & Tools
 
 - Matlab, TypeScript, JavaScript, Python, SQL, Node.js, React, Express, Flask, MongoDB, PostgreSQL, Git, Docker, entre otros.
 
 ---
 
-## Contacto | Contact
+## 📫 Contacto | Contact
 
 - [LinkedIn](https://www.linkedin.com/in/a-arevalo)
 - Email: aarevalo@fcien.edu.uy
