@@ -1,65 +1,69 @@
-# 👋 Hola, soy Alejandro Arévalo | Hi, I'm Alejandro Arévalo
+# Hi, I'm Alejandro Arévalo
 
-**Especialista IT:** Frontend, Backend, Project Manager, QA  
-**Tecnologías destacadas:** Matlab, TypeScript, JavaScript, Python, SQL, entre otras.  
-**Formación:** Software Developer (en finalización), Biotecnología, Astronomía y Física.  
-**Reconocimientos:** NASA Space Apps Challenge (Excelencia), proyectos científicos y tecnológicos.
+**IT Specialist:** Frontend, Backend, Project Manager, QA  
+**Key Technologies:** Matlab, TypeScript, JavaScript, Python, SQL, among others.  
+**Education:** Software Developer (in progress), Biotechnology, Astronomy and Physics.  
+**Awards:** NASA Space Apps Challenge (Excellence), scientific and technological projects.
 
 ---
 
-## 🚀 Proyectos Destacados | Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td>
-      <a href="[https://github.com/alearecuest/AirBnB-clone](https://github.com/alearecuest/holbertonschool-hbnb)">
-        <img src="https://github.com/alearecuest/alearecuest/tree/main/logo.png" width="100" alt="AirBnB Clone"/>
+      <a href="https://github.com/alearecuest/holbertonschool-hbnb">
+        <img src="https://github.com/alearecuest/alearecuest/blob/main/logo.png" width="100" alt="HBNB Clone"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/alearecuest/SuperSID">
-        <img src="https://github.com/alearecuest/SuperSID/raw/main/preview.png" width="100" alt="SuperSID"/>
+      <a href="https://github.com/alearecuest/SuperSID_Project">
+        <img src="https://github.com/alearecuest/alearecuest/blob/main/android-icon-96x96.png" width="100" alt="SuperSID"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/alearecuest/nasa-space-challenge">
-        <img src="https://github.com/alearecuest/nasa-space-challenge/raw/main/preview.png" width="100" alt="NASA Space Challenge"/>
+      <a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">
+        <img src="https://github.com/alearecuest/alearecuest/blob/main/logoNASAChallenge.png" width="100" alt="NASA Space Challenge"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/alearecuest/ProyectoFinal_ELIO">
+        <img src="https://github.com/alearecuest/alearecuest/blob/main/banner.png" width="100" alt="ELIO"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <b><a href="https://github.com/alearecuest/AirBnB-clone">Clon de AirBnB</a></b><br>
-      Aplicación web fullstack inspirada en AirBnB, con funcionalidades de registro, reserva y administración de propiedades.<br>
-      <i>Fullstack web app inspired by AirBnB, including booking and property management features.</i>
+      <b><a href="https://github.com/alearecuest/holbertonschool-hbnb">HBNB Clone</a></b><br>
+      Fullstack web application inspired by AirBnB, featuring user registration, property booking and management.
     </td>
     <td>
-      <b><a href="https://github.com/alearecuest/SuperSID">SuperSID</a></b><br>
-      Proyecto de análisis de la radiación solar en la ionosfera, con captura y procesamiento de datos científicos.<br>
-      <i>Solar radiation analysis in the ionosphere, including scientific data acquisition and processing.</i>
+      <b><a href="https://github.com/alearecuest/SuperSID_Project">SuperSID</a></b><br>
+      Scientific project for solar radiation analysis in the ionosphere, including data capture and processing.
     </td>
     <td>
-      <b><a href="https://github.com/alearecuest/nasa-space-challenge">NASA Space Challenge</a></b><br>
-      Proyecto reconocido por NASA Space Apps Challenge. Desarrollo colaborativo y soluciones de excelencia para desafíos espaciales.<br>
-      <i>NASA Space Apps Challenge project. Collaborative development and award-winning space solutions.</i>
+      <b><a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">NASA Space Challenge</a></b><br>
+      Excellence-awarded project at NASA Space Apps Challenge. Collaborative development for space solutions.
+    </td>
+    <td>
+      <b><a href="https://github.com/alearecuest/ProyectoFinal_ELIO">ELIO</a></b><br>
+      Real client project: Digital medical history assistant for healthcare professionals.
     </td>
   </tr>
 </table>
 
 ---
 
-## 💡 Tecnologías y Herramientas | Technologies & Tools
+## Technologies & Tools
 
-- Matlab, TypeScript, JavaScript, Python, SQL, Node.js, React, Express, Flask, MongoDB, PostgreSQL, Git, Docker, entre otros.
+- Matlab, TypeScript, JavaScript, Python, SQL, Node.js, React, Express, Flask, MongoDB, PostgreSQL, Git, Docker, and more.
 
 ---
 
-## 📫 Contacto | Contact
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/a-arevalo)
 - Email: aarevalo@fcien.edu.uy
 - WhatsApp: +598 99 742 860
 
 ---
-
-¿Quieres que adapte los nombres y enlaces de los repositorios si son distintos en tu perfil? Dímelo y lo ajusto.
