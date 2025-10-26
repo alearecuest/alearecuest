@@ -12,8 +12,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/alearecuest/AirBnB-clone">
-        <img src="https://github.com/alearecuest/AirBnB-clone/raw/main/preview.png" width="100" alt="AirBnB Clone"/>
+      <a href="[https://github.com/alearecuest/AirBnB-clone](https://github.com/alearecuest/holbertonschool-hbnb.git)">
+        <img src="https://github.com/alearecuest/AirBnB-clone/raw/main/logo.png" width="100" alt="AirBnB Clone"/>
       </a>
     </td>
     <td>
