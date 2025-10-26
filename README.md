@@ -13,12 +13,12 @@
   <tr>
     <td>
       <a href="https://github.com/alearecuest/holbertonschool-hbnb">
-        <img src="https://github.com/alearecuest/alearecuest/raw/main/logo.png" width="100" alt="HBNB Clone"/>
+        <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/logo.png" width="100" alt="HBNB Clone"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/alearecuest/SuperSID_Project">
-        <img src="https://github.com/alearecuest/alearecuest/raw/main/android-icon-96x96.png" width="100" alt="SuperSID"/>
+        <img src="https://github.com/alearecuest/SuperSID_Project/raw/main/images.png" width="100" alt="SuperSID"/>
       </a>
     </td>
     <td>
