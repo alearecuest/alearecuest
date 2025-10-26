@@ -11,41 +11,48 @@
 
 <table>
   <tr>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/alearecuest/holbertonschool-hbnb">
-        <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/logo.png" width="90" alt="HBNB Clone"/><br>
-        <b>HBNB Clone</b>
-      </a>
-      <div align="center" style="font-size:90%">
-        Fullstack web application inspired by AirBnB, featuring user registration, property booking and management.
-      </div>
+    <!-- Logos fila -->
+    <td align="center" valign="middle" width="25%">
+      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/logo.png" width="80" alt="HBNB Clone"/>
     </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/alearecuest/SuperSID_Project">
-        <img src="https://github.com/alearecuest/SuperSID_Project/raw/main/images.png" width="90" alt="SuperSID"/><br>
-        <b>SuperSID</b>
-      </a>
-      <div align="center" style="font-size:90%">
-        Scientific project for solar radiation analysis in the ionosphere, including data capture and processing.
-      </div>
+    <td align="center" valign="middle" width="25%">
+      <img src="https://github.com/alearecuest/SuperSID_Project/raw/main/images.png" width="80" alt="SuperSID"/>
     </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">
-        <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="90" alt="NASA Space Challenge"/><br>
-        <b>NASA Space Challenge</b>
-      </a>
-      <div align="center" style="font-size:90%">
-        Excellence-awarded project at NASA Space Apps Challenge. Collaborative development for space solutions.
-      </div>
+    <td align="center" valign="middle" width="25%">
+      <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="80" alt="NASA Space Challenge"/>
     </td>
-    <td align="center" valign="top" width="25%">
-      <a href="https://github.com/alearecuest/ProyectoFinal_ELIO">
-        <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="90" alt="ELIO"/><br>
-        <b>ELIO</b>
-      </a>
-      <div align="center" style="font-size:90%">
-        Real client project: Digital medical history assistant for healthcare professionals.
-      </div>
+    <td align="center" valign="middle" width="25%">
+      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="80" alt="ELIO"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Titulos fila -->
+    <td align="center" valign="middle">
+      <b><a href="https://github.com/alearecuest/holbertonschool-hbnb">HBNB Clone</a></b>
+    </td>
+    <td align="center" valign="middle">
+      <b><a href="https://github.com/alearecuest/SuperSID_Project">SuperSID</a></b>
+    </td>
+    <td align="center" valign="middle">
+      <b><a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">NASA Space Challenge</a></b>
+    </td>
+    <td align="center" valign="middle">
+      <b><a href="https://github.com/alearecuest/ProyectoFinal_ELIO">ELIO</a></b>
+    </td>
+  </tr>
+  <tr>
+    <!-- Info fila -->
+    <td valign="top" style="text-align: justify;">
+      Fullstack web application inspired by AirBnB, featuring user registration, property booking and management.
+    </td>
+    <td valign="top" style="text-align: justify;">
+      Scientific project for solar radiation analysis in the ionosphere, including data capture and processing.
+    </td>
+    <td valign="top" style="text-align: justify;">
+      Excellence-awarded project at NASA Space Apps Challenge. Collaborative development for space solutions.
+    </td>
+    <td valign="top" style="text-align: justify;">
+      Real client project: Digital medical history assistant for healthcare professionals.
     </td>
   </tr>
 </table>
