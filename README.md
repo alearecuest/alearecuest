@@ -16,7 +16,7 @@
       <img src="https://github.com/alearecuest/holbertonschool-hbnb/blob/main/hbnb.png" width="140" alt="HBNB Clone"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/SuperSID_Project/blob/main/SuperSID_logo.png" width="120" alt="SuperSID"/>
+      <img src="https://github.com/alearecuest/SuperSID_Project/blob/main/SuperSID_logo.png" width="90" alt="SuperSID"/>
     </td>
     <td align="center" valign="middle" width="25%">
       <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="140" alt="NASA Space Challenge"/>
