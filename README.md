@@ -37,7 +37,7 @@
       <b><a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">NASA Space Challenge</a></b>
     </td>
     <td align="center" valign="middle">
-      <b><a href="https://github.com/alearecuest/ProyectoFinal_ELIO">ELIO</a></b>
+      <b><a href="https://github.com/alearecuest/ELIO-final_project.git">ELIO</a></b>
     </td>
   </tr>
   <tr>
