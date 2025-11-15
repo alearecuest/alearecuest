@@ -2,7 +2,7 @@
 
 **IT Specialist:** Frontend, Backend, Project Manager, QA  
 **Key Technologies:** Matlab, TypeScript, JavaScript, Python, SQL, among others.  
-**Education:** Software Developer (in progress), Biotechnology, Astronomy and Physics.  
+**Education:** Software Developer, Biotechnology, Astronomy and Physics.  
 **Awards:** NASA Space Apps Challenge (Excellence), scientific and technological projects.
 
 ---
