@@ -1,5 +1,5 @@
 # Hi, I'm Alejandro Arévalo
-### Software Developer
+## Software Developer
 
 **IT Specialist:** Frontend, Backend, Project Manager, QA  
 **Key Technologies:** Matlab, TypeScript, JavaScript, Python, SQL, among others.  
