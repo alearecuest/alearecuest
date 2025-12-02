@@ -17,7 +17,7 @@
       <img src="https://github.com/alearecuest/holbertonschool-hbnb/blob/main/hbnb.png" width="140" alt="HBNB Clone"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/SuperSID_Project/blob/main/SuperSID_logo.png" width="90" alt="SuperSID"/>
+      <img src="https://github.com/alearecuest/SuperSID_Pro/blob/main/assets/icons/banner_SuperSID.png" width="90" alt="SuperSID"/>
     </td>
     <td align="center" valign="middle" width="25%">
       <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="140" alt="NASA Space Challenge"/>
@@ -32,7 +32,7 @@
       <b><a href="https://github.com/alearecuest/holbertonschool-hbnb">HBNB Clone</a></b>
     </td>
     <td align="center" valign="middle">
-      <b><a href="https://github.com/alearecuest/SuperSID_Project">SuperSID</a></b>
+      <b><a href="https://github.com/alearecuest/SuperSID_Pro">SuperSID Pro</a></b>
     </td>
     <td align="center" valign="middle">
       <b><a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">NASA Space Challenge</a></b>
