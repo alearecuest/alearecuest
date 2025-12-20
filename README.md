@@ -7,7 +7,6 @@
 ---
 
 **IT Specialist:** Frontend, Backend, Project Manager, QA  
-**Key Technologies:** Matlab, TypeScript, JavaScript, Python, SQL, TypeScript, JavaScript, CSS, Angular, React, NoSQL, C#, HTML, Node.JS, MongoDB.  
 **Education:** Software Developer, Biotechnology, Astronomy and Physics.  
 **Awards:** NASA Space Apps Challenge (Excellence), scientific and technological projects.
 
@@ -66,7 +65,7 @@
 
 ## Technologies & Tools
 
-- Matlab, TypeScript, JavaScript, Python, SQL, Node.js, React, Express, Flask, MongoDB, PostgreSQL, Git, Docker, and more.
+I have hands-on experience with Matlab, TypeScript, JavaScript, Python, SQL, Node.js, React, Express, Flask, MongoDB, PostgreSQL, Git, Docker, CSS, Angular, NoSQL, C#, and HTML, among others, which allows me to adapt quickly to diverse IT projects and interdisciplinary environments.
 
 ---
 
