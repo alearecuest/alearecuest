@@ -1,5 +1,7 @@
 # Hi, I'm Alejandro Arévalo
 ## Software Developer
+
+--
 ### Multidisciplinary & adaptable professional transitioning into IT With a strong foundation in scientific research, technical education, and cross-domain innovation, I bring over 14 years of experience teaching physics and astronomy. This background has sharpened my skills in leadership, problem solving, and empathetic communication.
 ---
 
