@@ -8,7 +8,6 @@
 **Education:** Software Developer, Biotechnology, Astronomy and Physics.  
 **Awards:** NASA Space Apps Challenge (Excellence), scientific and technological projects.
 
----
 
 ## Featured Projects
 
