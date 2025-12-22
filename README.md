@@ -71,7 +71,7 @@ I have hands-on experience with Matlab, TypeScript, JavaScript, Python, SQL, Nod
 
 ## Contact
 
-- Linkedin: https://www.linkedin.com/in/a-arevalo
+- Linkedin: www.linkedin.com/in/alejarevalo
 - Website: https://alearecuest.github.io/portfolio_web_page/
 - Email: aarevalo@fcien.edu.uy
 - WhatsApp: +598 99 742 860
