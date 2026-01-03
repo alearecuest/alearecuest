@@ -104,7 +104,7 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 
 ### Education
 
-**Foundation in Computer Science** - Holberton Uruguay Zonamerica (2025)
+**Foundation in Computer Science** - Holberton Uruguay Zonamerica 2025
 > Low-level algorithms, High-level programming, System Engineering
 
 **Bachelor's in Biotechnology** - Universidad de la República (In Progress)
@@ -134,7 +134,7 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats. vercel.app/api/top-langs/?username=alearecuest&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alearecuest&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -142,5 +142,3 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 <p align="center">
   <b><i>"Bridging Science and Technology to build Impactful Solutions"</i></b>
 </p>
-
-
