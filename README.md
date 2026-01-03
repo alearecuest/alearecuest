@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Technical+Project+Manager;Full-Stack+Developer;NASA+Space+Apps+Award+Winner;14%2B+Years+Leading+Teams" alt="Typing SVG"/>
-</p>
-
 # Hi, I'm Alejandro Arévalo
 
 ## Technical Project Manager | Full-Stack Developer
@@ -11,9 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://alearecuest.github.io/portfolio_web_page/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About. me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto: aarevalo@fcien.edu.uy">
+  <a href="mailto: aarevalo@fcien.edu. uy">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=alearecuest&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
@@ -29,25 +25,12 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 
 ---
 
-### Core Competencies
-
-| Management & Methodologies | Technical Stack | Leadership & Soft Skills |
-|:-------------------------:|:---------------:|:------------------------:|
-| Agile/Scrum Leadership | JavaScript/TypeScript | Cross-functional Team Leadership |
-| JIRA, Trello | Python, SQL | Strategic Planning |
-| Product Roadmapping | Node. js, Fastify, Angular | Conflict Resolution |
-| Backlog Prioritization | React, Express | Crisis Management |
-| User Stories & Acceptance Criteria | Docker, Git, Postman | Adaptability |
-| Stakeholder Management | Google Gemini API, Swagger | Bilingual (EN/ES) |
-
----
-
 ### Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node. js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -56,7 +39,7 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D? style=for-the-badge&logo=swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
@@ -72,15 +55,15 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
       <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="140" alt="NASA Space Challenge"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/SuperSID_Pro/blob/main/assets/icons/banner_SuperSID.png" width="90" alt="SuperSID"/>
+      <img src="https://github.com/alearecuest/SuperSID_Pro/raw/main/assets/icons/banner_SuperSID.png" width="90" alt="SuperSID"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/holbertonschool-hbnb/blob/main/hbnb. png" width="140" alt="HBNB Clone"/>
+      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb. png" width="140" alt="HBNB Clone"/>
     </td>
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <b><a href="https://github.com/alearecuest/ELIO-final_project. git">ELIO</a></b>
+      <b><a href="https://github.com/alearecuest/ELIO-final_project">ELIO</a></b>
     </td>
     <td align="center" valign="middle">
       <b><a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">NASA Space Challenge</a></b>
@@ -95,11 +78,11 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
   <tr>
     <td valign="top">
       <b>Backend Developer & Technical Lead</b><br/>
-      AI-driven clinical assistant for healthcare professionals.  Built with Node.js, Fastify, TypeScript & Google Gemini AI. 
+      AI-driven clinical assistant for healthcare professionals.  Built with Node.js, Fastify, TypeScript & Google Gemini AI.
     </td>
     <td valign="top">
-      <b>Excellence Award Winner</b><br/>
-      <b>2025:</b> Asteroid Simulator (Python/React)<br/>
+      <b>Mention Of Excellence</b><br/>
+      <b>2025: </b> Asteroid Simulator (Python/React)<br/>
       <b>2024:</b> Exoplanet Detection - Product Owner
     </td>
     <td valign="top">
@@ -115,28 +98,27 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 
 ---
 
-### Education
+### 📚 Education
 
-| Degree | Institution | Focus |
-|:------:|:-----------:|: -----:|
-| **Foundation in Computer Science** | Holberton Uruguay Zonamerica (2025) | Low-level algorithms, High-level programming, System Engineering |
-| **Bachelor's in Biotechnology** | Universidad de la República (In Progress) | Bioinformatics and Computational Biology |
+🎓 **Foundation in Computer Science** - Holberton Uruguay Zonamerica (2025)
+> Low-level algorithms, High-level programming, System Engineering
 
----
-
-### Certifications
-
-- **Artificial Intelligence for Productivity (Advanced)** - INEFOP (2024)
-- **Programming Fundamentals & Micro:Bit** (2024)
-- **Robotics & Computational Thinking** - Faculty of Engineering (UdelaR)
+🧬 **Bachelor's in Biotechnology** - Universidad de la República (In Progress)
+> Bioinformatics and Computational Biology
 
 ---
 
-### Professional Experience Highlights
+### 📜 Certifications
 
-```
-Stanford Solar Center (2013-Present) → SuperSID Project Lead & Developer  
-```
+- 🤖 **Artificial Intelligence for Productivity (Advanced)** - INEFOP (2024)
+- 💻 **Programming Fundamentals & Micro: Bit** (2024)
+- 🔧 **Robotics & Computational Thinking** - Faculty of Engineering (UdelaR)
+
+---
+
+### 💼 Professional Experience
+
+**Stanford Solar Center** (2013-Present) → SuperSID Project Lead & Developer
 
 ---
 
@@ -144,7 +126,7 @@ Stanford Solar Center (2013-Present) → SuperSID Project Lead & Developer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alearecuest&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp. com/? user=alearecuest&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp. com/?user=alearecuest&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
@@ -156,5 +138,3 @@ Stanford Solar Center (2013-Present) → SuperSID Project Lead & Developer
 <p align="center">
   <i>"Bridging science and technology to build impactful solutions"</i>
 </p>
-
----
