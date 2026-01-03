@@ -48,7 +48,7 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="25%">
+    <td align="center" valign="middle" width="40%">
       <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="140" alt="ELIO"/>
     </td>
     <td align="center" valign="middle" width="25%">
