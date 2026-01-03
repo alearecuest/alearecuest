@@ -30,7 +30,7 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node. js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -48,8 +48,8 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="40%">
-      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="140" alt="ELIO"/>
+    <td align="center" valign="middle" width="25%">
+      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="300" alt="ELIO"/>
     </td>
     <td align="center" valign="middle" width="25%">
       <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="140" alt="NASA Space Challenge"/>
@@ -58,7 +58,7 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
       <img src="https://github.com/alearecuest/SuperSID_Pro/raw/main/assets/icons/banner_SuperSID.png" width="90" alt="SuperSID"/>
     </td>
     <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb. png" width="140" alt="HBNB Clone"/>
+      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="140" alt="HBNB Clone"/>
     </td>
   </tr>
   <tr>
