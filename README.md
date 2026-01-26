@@ -86,7 +86,7 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
   <tr>
     <td valign="top">
       <b>Backend Developer & Technical Lead</b><br/>
-      AI-driven clinical assistant for healthcare professionals. Built with Node.js, Fastify, TypeScript & Google Gemini AI.
+      AI-driven clinical assistant for healthcare professionals. Built with Angular, Fastify, TypeScript & Google Gemini AI.
     </td>
     <td valign="top">
       <b>Mention of Excellence</b><br/>
