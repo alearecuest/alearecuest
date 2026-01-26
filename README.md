@@ -28,7 +28,7 @@
 
 ### About Me
 
-Technical Project Manager & Full-Stack Developer with a unique blend of **14+ years in team leadership** and a strong scientific foundation. I excel at bridging the gap between complex business requirements and technical execution, ensuring scalable solutions in **HealthTech** and **Data-Driven** projects. 
+Technical Project Manager & Full-Stack Developer with a unique blend of **14+ years in team leadership** and a strong scientific foundation. I excel at bridging the gap between complex business requirements and technical execution, ensuring scalable solutions in **HealthTech** and **Data-Driven** projects.
 
 Proven track record of managing multidisciplinary teams, defining roadmaps, and delivering **award-winning software solutions** (NASA Space Apps). Skilled in Agile methodologies, stakeholder communication, and full-stack development, allowing me to lead projects with both strategic vision and hands-on technical expertise.
 
@@ -56,17 +56,20 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="340" alt="ELIO"/>
+    <td align="center" valign="middle" width="20%">
+      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="420" height="180" alt="ELIO"/>
     </td>
-    <td align="center" valign="middle" width="25%">
+    <td align="center" valign="middle" width="20%">
       <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="140" alt="NASA Space Challenge"/>
     </td>
-    <td align="center" valign="middle" width="25%">
+    <td align="center" valign="middle" width="20%">
       <img src="https://github.com/alearecuest/SuperSID_Pro/raw/main/assets/icons/banner_SuperSID.png" width="90" alt="SuperSID"/>
     </td>
-    <td align="center" valign="middle" width="25%">
+    <td align="center" valign="middle" width="20%">
       <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="140" alt="HBNB Clone"/>
+    </td>
+    <td align="center" valign="middle" width="20%">
+      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="140" alt="HBNB TypeScript"/>
     </td>
   </tr>
   <tr>
@@ -81,6 +84,9 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
     </td>
     <td align="center" valign="middle">
       <b><a href="https://github.com/alearecuest/holbertonschool-hbnb">HBNB Clone</a></b>
+    </td>
+    <td align="center" valign="middle">
+      <b><a href="https://github.com/alearecuest/HBnB__Holberton_Clone">HBNB Clone (TypeScript)</a></b>
     </td>
   </tr>
   <tr>
@@ -99,7 +105,12 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
     </td>
     <td valign="top">
       <b>Fullstack Developer</b><br/>
-      AirBnB-inspired web app with user registration, property booking and management.
+      AirBnB-inspired web app (Python/Flask) built for Holberton, with user registration, property booking and management.
+    </td>
+    <td valign="top">
+      <b>Personal Project</b><br/>
+      AirBnB clone developed using TypeScript + Vite.<br/>
+      Inspired by the Holberton project but built from scratch to put my knowledge to the test, refactor architecture, introduce TypeScript, and focus on best coding practices and a modern interface.
     </td>
   </tr>
 </table>
@@ -108,10 +119,10 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 
 ### Education
 
-**Foundation in Computer Science** - Holberton Uruguay Zonamerica 2025
+**Foundation in Computer Science** - Holberton Uruguay Zonamerica 2025  
 > Low-level algorithms, High-level programming, System Engineering
 
-**Bachelor's in Biotechnology** - Universidad de la República (In Progress)
+**Bachelor's in Biotechnology** - Universidad de la República (In Progress)  
 > Bioinformatics and Computational Biology
 
 ---
