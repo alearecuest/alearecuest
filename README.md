@@ -28,9 +28,9 @@
 
 ### About Me
 
-Technical Project Manager & Full-Stack Developer with a unique blend of **14+ years in team leadership** and a strong scientific foundation. I excel at bridging the gap between complex business requirements and technical execution, ensuring scalable solutions in **HealthTech** and **Data-Driven** projects.
+Technical Project Manager & Full-Stack Developer bringing **14+ years of team leadership** and a strong scientific background to the tech industry. I specialize in bridging the gap between complex requirements and technical execution, delivering scalable solutions with a focus on **HealthTech, AI, and Data-Driven** projects.
 
-Proven track record of managing multidisciplinary teams, defining roadmaps, and delivering **award-winning software solutions** (NASA Space Apps). Skilled in Agile methodologies, stakeholder communication, and full-stack development, allowing me to lead projects with both strategic vision and hands-on technical expertise.
+My proven track record includes managing multidisciplinary teams, defining strategic roadmaps, and developing **award-winning software** (NASA Space Apps Mention of Excellence). With expertise in Agile methodologies, modern full-stack development, and artificial intelligence, I lead projects from conception to deployment, combining strategic vision with hands-on technical precision.
 
 ---
 
@@ -51,6 +51,8 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
+
+### Featured Projects
 
 ### Featured Projects
 
@@ -92,25 +94,24 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
   <tr>
     <td valign="top">
       <b>Backend Developer & Technical Lead</b><br/>
-      AI-driven clinical assistant for healthcare professionals. Built with Angular, Fastify, TypeScript & Google Gemini AI.
+      Led a multidisciplinary team to build an AI-driven clinical assistant for healthcare professionals. Developed with Angular, Fastify, TypeScript & Google Gemini AI.
     </td>
     <td valign="top">
       <b>Mention of Excellence</b><br/>
-      <b>2025: </b> Asteroid Simulator (Python/React)<br/>
-      <b>2024:</b> Exoplanet Detection - Product Owner
+      <b>2025:</b> Asteroid Simulator (React)<br/>
+      <b>2024:</b> Exoplanet Detection (Product Owner)
     </td>
     <td valign="top">
-      <b>Project Lead & Developer</b><br/>
-      Solar radiation analysis for Stanford Solar Center. Custom software development since 2013.
+      <b>Project Lead & Developer (Volunteer)</b><br/>
+      Long-term collaboration with the Stanford Solar Center. Developed custom software for solar radiation analysis and data collection.
     </td>
     <td valign="top">
-      <b>Fullstack Developer</b><br/>
-      AirBnB-inspired web app (Python/Flask) built for Holberton, with user registration, property booking and management.
+      <b>Full-Stack Developer</b><br/>
+      AirBnB-inspired web app (Python/Flask) featuring user registration, property booking, and database management.
     </td>
     <td valign="top">
       <b>Personal Project</b><br/>
-      AirBnB clone developed using TypeScript + Vite.<br/>
-      Inspired by the Holberton project but built from scratch to put my knowledge to the test, refactor architecture, introduce TypeScript, and focus on best coding practices and a modern interface.
+      Modern AirBnB clone built from scratch using TypeScript + Vite to implement best coding practices, clean architecture, and modern UI.
     </td>
   </tr>
 </table>
@@ -119,22 +120,38 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 
 ### Education
 
-**Foundation in Computer Science** - Holberton Uruguay Zonamerica 2025  
-> Low-level algorithms, High-level programming, System Engineering
+**Machine Learning & AI Development** - Anyone AI
+> Advanced training focusing on Machine Learning models, Data Science, and the integration of Artificial Intelligence into scalable applications.
 
-**Foundation in Computer Science** - Holberton Uruguay Zonamerica 2025  
-> Low-level algorithms, High-level programming, System Engineering
+**Full-Stack Software Engineering** - Holberton School (2025)
+> Intensive, project-based engineering program. Core focus on Low-Level Algorithms, System Architecture, High-Level Programming, and modern web frameworks. 
 
-**Bachelor's in Biotechnology** - Universidad de la República (In Progress)  
-> Bioinformatics and Computational Biology
+**Biotechnology (Academic Background)** - Universidad de la República
+> Solid scientific foundation with a focus on Bioinformatics and Computational Biology. This analytical background enables me to deeply understand and build specialized software for HealthTech and scientific research.
 
 ---
 
 ### Certifications
 
-- **Artificial Intelligence for Productivity (Advanced)** - INEFOP (2024)
-- **Programming Fundamentals & Micro: Bit** (2024)
-- **Robotics & Computational Thinking** - Faculty of Engineering (UdelaR)
+**Artificial Intelligence & Data Science**
+- **Master AI with Gemini** - *Santander Open Academy / Google* (2026)
+- **Building your first AI Agent** - *Desafío Latam* (2026)
+- **Building Digital Products with AI** - *Desafío Latam* (2026)
+- **Core Concepts of Data Science** - *Desafío Latam* (2026)
+- **Artificial Intelligence for Productivity (Advanced)** - *INEFOP* (2025)
+
+**Project Management & Leadership**
+- **Project Management & Agile Methodology Fundamentals** - *Santander Open Academy* (2026)
+- **Leadership** - *Santander Open Academy* (2026)
+- **Effective Communication** - *Santander Open Academy* (2026)
+
+**Software Development & Technology**
+- **Introduction to Web Development** - *Desafío Latam* (2026)
+- **Power BI Data Analysis** - *Santander Open Academy* (2026)
+- **Programming Fundamentals & Micro:Bit** (2024)
+- **Robotics & Computational Thinking** - *Faculty of Engineering (UdelaR)*
+
+> **Currently Learning:** *Copilot: Mastering AI in Microsoft 365*
 
 ---
 
