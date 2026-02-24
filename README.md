@@ -138,7 +138,7 @@ My proven track record includes managing multidisciplinary teams, defining strat
 - **Building your first AI Agent** - *Desafío Latam* (2026)
 - **Building Digital Products with AI** - *Desafío Latam* (2026)
 - **Core Concepts of Data Science** - *Desafío Latam* (2026)
-- **Artificial Intelligence for Productivity (Advanced)** - *INEFOP* (2025)
+- **Artificial Intelligence for Productivity (Advanced Level)** - *INEFOP* (2025)
 
 **Project Management & Leadership**
 - **Project Management & Agile Methodology Fundamentals** - *Santander Open Academy* (2026)
