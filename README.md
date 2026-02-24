@@ -120,7 +120,7 @@ My proven track record includes managing multidisciplinary teams, defining strat
 
 ### Education
 
-**Machine Learning & AI Development** - Anyone AI
+**Machine Learning & AI Development** - Anyone AI (2026)
 > Advanced training focusing on Machine Learning models, Data Science, and the integration of Artificial Intelligence into scalable applications.
 
 **Full-Stack Software Engineering** - Holberton School (2025)
