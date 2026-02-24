@@ -54,8 +54,6 @@ My proven track record includes managing multidisciplinary teams, defining strat
 
 ### Featured Projects
 
-### Featured Projects
-
 <table>
   <tr>
     <td align="center" valign="middle" width="20%">
@@ -152,12 +150,6 @@ My proven track record includes managing multidisciplinary teams, defining strat
 - **Robotics & Computational Thinking** - *Faculty of Engineering (UdelaR)*
 
 > **Currently Learning:** *Copilot: Mastering AI in Microsoft 365*
-
----
-
-### Professional Experience
-
-**Stanford Solar Center** (2013-Present) → SuperSID Project Lead & Developer
 
 ---
 
