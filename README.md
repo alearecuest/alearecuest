@@ -122,6 +122,9 @@ Proven track record of managing multidisciplinary teams, defining roadmaps, and 
 **Foundation in Computer Science** - Holberton Uruguay Zonamerica 2025  
 > Low-level algorithms, High-level programming, System Engineering
 
+**Foundation in Computer Science** - Holberton Uruguay Zonamerica 2025  
+> Low-level algorithms, High-level programming, System Engineering
+
 **Bachelor's in Biotechnology** - Universidad de la República (In Progress)  
 > Bioinformatics and Computational Biology
 
