@@ -162,10 +162,10 @@ My proven track record includes managing multidisciplinary teams, defining strat
 
 ### Education
 
-**Machine Learning & AI Development** — Anyone AI (2026)  
+**Machine Learning & AI Development** — Anyone AI | In progress 2026  
 > Advanced training focusing on Machine Learning models, Data Science, and the integration of Artificial Intelligence into scalable applications.
 
-**Full-Stack Software Engineering** — Holberton School (2025)  
+**Full-Stack Software Engineering** — Holberton School | Graduated in 2025  
 > Intensive, project-based engineering program. Core focus on Low-Level Algorithms, System Architecture, High-Level Programming, and modern web frameworks. 
 
 **Biotechnology (Academic Background)** — Universidad de la República  
