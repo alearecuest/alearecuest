@@ -1,10 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58595B&center=true&vCenter=true&width=700&lines=Technical+Project+Manager;Full-Stack+Developer;AI+%2F+Data+%2F+HealthTech;NASA+Space+Apps+Award+Winner;14%2B+Years+Leading+Teams" alt="Typing SVG"/>
-</p>
-
 # Hi, I'm Alejandro Arévalo
 
-## Technical Project Manager | Full-Stack Developer
+## Technical Project Manager | Full-Stack Developer<p align="center">
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alearecuest&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58595B&center=true&vCenter=true&width=820&lines=Technical+Project+Manager;Full-Stack+Developer;AI+%2F+Data+%2F+HealthTech;Biotech+%2F+Bioinformatics+Background;NASA+Space+Apps+%E2%80%94+National+Recognition;14%2B+Years+Leading+Teams" alt="Typing SVG"/>
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alejarevalo" target="_blank">
@@ -26,17 +29,27 @@
 
 ---
 
-### About Me
+### Highlights
+- **14+ years** leading multidisciplinary teams and delivering software products end-to-end
+- **NASA Space Apps (National recognition)** — 2024 & 2025
+- Building at the intersection of **AI + HealthTech + Science** (Biotech/Bioinformatics background)
 
+---
+
+### About Me
 Technical Project Manager & Full-Stack Developer bringing **14+ years of team leadership** and a strong scientific background to the tech industry. I specialize in bridging the gap between complex requirements and technical execution, delivering scalable solutions with a focus on **HealthTech, AI, and data-driven** projects.
 
-My proven track record includes managing multidisciplinary teams, defining strategic roadmaps, and developing **award-winning software** (NASA Space Apps National Mention of Excellence). With expertise in Agile methodologies, modern full-stack development, and artificial intelligence, I lead projects from conception to deployment, combining strategic vision with hands-on technical precision.
+My proven track record includes managing multidisciplinary teams, defining strategic roadmaps, and developing **award-winning software** (NASA Space Apps — national recognition). With expertise in Agile methodologies, modern full-stack development, and artificial intelligence, I lead projects from conception to deployment, combining strategic vision with hands-on technical precision.
 
 ---
 
 ### Now / Focus
 - Building **AI-driven products** (HealthTech) and strengthening **MLOps** practices
 - Open to projects/opportunities at the intersection of **AI + Biotechnology/Bioinformatics** and **Space/Science-tech**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,ts,nodejs,react,angular,postgres,mongodb,docker,githubactions&perline=12" alt="Skill Icons" />
+</p>
 
 ---
 
@@ -60,6 +73,15 @@ My proven track record includes managing multidisciplinary teams, defining strat
 
 ---
 
+### Backend / APIs / DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
 ### Technologies & Tools (Full-Stack)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -69,17 +91,8 @@ My proven track record includes managing multidisciplinary teams, defining strat
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
----
-
-### Backend / APIs / DevOps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
@@ -126,7 +139,7 @@ My proven track record includes managing multidisciplinary teams, defining strat
       Led a multidisciplinary team to build an AI-driven clinical assistant for healthcare professionals. Developed with Angular, Fastify, TypeScript & Google Gemini AI.
     </td>
     <td valign="top">
-      <b>Mention of Excellence</b><br/>
+      <b>National recognition</b><br/>
       <b>2025:</b> Asteroid Simulator (React)<br/>
       <b>2024:</b> Exoplanet Detection (Product Owner)
     </td>
@@ -195,7 +208,18 @@ My proven track record includes managing multidisciplinary teams, defining strat
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alearecuest&theme=tokyonight" alt="Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alearecuest&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+<br/>
+<br/>
 
 <p align="center">
   <b><i>"Bridging Science and Technology to build Impactful Solutions"</i></b>
