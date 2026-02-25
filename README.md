@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58595B&center=true&vCenter=true&width=600&lines=Technical+Project+Manager;Full-Stack+Developer;NASA+Space+Apps+Award+Winner;14%2B+Years+Leading+Teams" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58595B&center=true&vCenter=true&width=700&lines=Technical+Project+Manager;Full-Stack+Developer;AI+%2F+Data+%2F+HealthTech;NASA+Space+Apps+Award+Winner;14%2B+Years+Leading+Teams" alt="Typing SVG"/>
 </p>
 
 # Hi, I'm Alejandro Arévalo
@@ -28,17 +28,41 @@
 
 ### About Me
 
-Technical Project Manager & Full-Stack Developer bringing **14+ years of team leadership** and a strong scientific background to the tech industry. I specialize in bridging the gap between complex requirements and technical execution, delivering scalable solutions with a focus on **HealthTech, AI, and Data-Driven** projects.
+Technical Project Manager & Full-Stack Developer bringing **14+ years of team leadership** and a strong scientific background to the tech industry. I specialize in bridging the gap between complex requirements and technical execution, delivering scalable solutions with a focus on **HealthTech, AI, and data-driven** projects.
 
-My proven track record includes managing multidisciplinary teams, defining strategic roadmaps, and developing **award-winning software** (NASA Space Apps Mention of Excellence). With expertise in Agile methodologies, modern full-stack development, and artificial intelligence, I lead projects from conception to deployment, combining strategic vision with hands-on technical precision.
+My proven track record includes managing multidisciplinary teams, defining strategic roadmaps, and developing **award-winning software** (NASA Space Apps National Mention of Excellence). With expertise in Agile methodologies, modern full-stack development, and artificial intelligence, I lead projects from conception to deployment, combining strategic vision with hands-on technical precision.
 
 ---
 
-### Technologies & Tools
+### Now / Focus
+- Building **AI-driven products** (HealthTech) and strengthening **MLOps** practices
+- Open to projects/opportunities at the intersection of **AI + Biotechnology/Bioinformatics** and **Space/Science-tech**
 
+---
+
+### Programs & Community
+- **Holberton School (Global)** — *Machine Learning Curriculum Beta Tester* (2026): testing learning projects and providing feedback to improve the student experience.
+
+---
+
+### ML / Data Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+---
+
+### Technologies & Tools (Full-Stack)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -49,6 +73,13 @@ My proven track record includes managing multidisciplinary teams, defining strat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+---
+
+### Backend / APIs / DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
@@ -118,13 +149,13 @@ My proven track record includes managing multidisciplinary teams, defining strat
 
 ### Education
 
-**Machine Learning & AI Development** - Anyone AI (2026)
+**Machine Learning & AI Development** — Anyone AI (2026)  
 > Advanced training focusing on Machine Learning models, Data Science, and the integration of Artificial Intelligence into scalable applications.
 
-**Full-Stack Software Engineering** - Holberton School (2025)
+**Full-Stack Software Engineering** — Holberton School (2025)  
 > Intensive, project-based engineering program. Core focus on Low-Level Algorithms, System Architecture, High-Level Programming, and modern web frameworks. 
 
-**Biotechnology (Academic Background)** - Universidad de la República
+**Biotechnology (Academic Background)** — Universidad de la República  
 > Solid scientific foundation with a focus on Bioinformatics and Computational Biology. This analytical background enables me to deeply understand and build specialized software for HealthTech and scientific research.
 
 ---
@@ -132,22 +163,22 @@ My proven track record includes managing multidisciplinary teams, defining strat
 ### Certifications
 
 **Artificial Intelligence & Data Science**
-- **Master AI with Gemini** - *Santander Open Academy / Google* (2026)
-- **Building your first AI Agent** - *Desafío Latam* (2026)
-- **Building Digital Products with AI** - *Desafío Latam* (2026)
-- **Core Concepts of Data Science** - *Desafío Latam* (2026)
-- **Artificial Intelligence for Productivity (Advanced Level)** - *INEFOP* (2025)
+- **Master AI with Gemini** — *Santander Open Academy / Google* (2026)
+- **Building your first AI Agent** — *Desafío Latam* (2026)
+- **Building Digital Products with AI** — *Desafío Latam* (2026)
+- **Core Concepts of Data Science** — *Desafío Latam* (2026)
+- **Artificial Intelligence for Productivity (Advanced Level)** — *INEFOP* (2025)
 
 **Project Management & Leadership**
-- **Project Management & Agile Methodology Fundamentals** - *Santander Open Academy* (2026)
-- **Leadership** - *Santander Open Academy* (2026)
-- **Effective Communication** - *Santander Open Academy* (2026)
+- **Project Management & Agile Methodology Fundamentals** — *Santander Open Academy* (2026)
+- **Leadership** — *Santander Open Academy* (2026)
+- **Effective Communication** — *Santander Open Academy* (2026)
 
 **Software Development & Technology**
-- **Introduction to Web Development** - *Desafío Latam* (2026)
-- **Power BI Data Analysis** - *Santander Open Academy* (2026)
+- **Introduction to Web Development** — *Desafío Latam* (2026)
+- **Power BI Data Analysis** — *Santander Open Academy* (2026)
 - **Programming Fundamentals & Micro:Bit** (2024)
-- **Robotics & Computational Thinking** - *Faculty of Engineering (UdelaR)*
+- **Robotics & Computational Thinking** — *Faculty of Engineering (UdelaR)*
 
 > **Currently Learning:** *Copilot: Mastering AI in Microsoft 365*
 
