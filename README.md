@@ -43,13 +43,13 @@
 ### About Me
 Technical Project Manager & Full-Stack Developer bringing **14+ years of team leadership** and a strong scientific background to the tech industry. I specialize in bridging the gap between complex requirements and technical execution, delivering scalable solutions with a focus on **HealthTech, AI, and data-driven** projects.
 
-My proven track record includes managing multidisciplinary teams, defining strategic roadmaps, and developing **award-winning software** (NASA Space Apps — national recognition). With expertise in Agile methodologies, modern full-stack development, and artificial intelligence, I lead projects from conception to deployment, combining strategic vision with hands-on technical precision.
+My proven track record includes managing multidisciplinary teams, defining strategic roadmaps, and developing ***Award-Winning Software*** (**NASA Space Apps** — National recognition). With expertise in Agile methodologies, modern full-stack development, and artificial intelligence, I lead projects from conception to deployment, combining strategic vision with hands-on technical precision.
 
 ---
 
 ### Now / Focus
 - Building **AI-driven products** (HealthTech) and strengthening **MLOps** practices
-- Open to projects/opportunities at the intersection of **AI + Biotechnology/Bioinformatics** and **Space/Science-tech**
+- Open to projects/opportunities at the intersection of **AI + Biotechnology/Bioinformatics** and **Space/Science-Tech**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,ts,nodejs,react,angular,postgres,mongodb,docker,githubactions&perline=12" alt="Skill Icons" />
@@ -181,23 +181,35 @@ My proven track record includes managing multidisciplinary teams, defining strat
 
 **Artificial Intelligence & Data Science**
 - **Master AI with Gemini** — *Santander Open Academy / Google* (2026)
-- **Building your first AI Agent** — *Desafío Latam* (2026)
-- **Building Digital Products with AI** — *Desafío Latam* (2026)
-- **Core Concepts of Data Science** — *Desafío Latam* (2026)
+- **Copilot (GitHub & Generative AI)** — *Santander Open Academy* (2026)
+- **Copilot: Master AI in Microsoft 365** — *Santander Open Academy* (2026)
+- **Cursor with Python: Intelligent Development with AI** — *Santander Open Academy* (2026)
+- **Learn how to create your first AI Agent** — *Desafío Latam* (2026)
+- **Create your own digital products using AI** — *Desafío Latam* (2026)
+- **Introduction to Data Science** — *Santander Open Academy / IE University* (2026)
+- **What do we actually do when we do Data Science?** — *Desafío Latam* (2026)
+- **AI Rules: How to Use It Without Legal Risks** — *Santander Open Academy* (2026)
 - **Artificial Intelligence for Productivity (Advanced Level)** — *INEFOP* (2025)
 
 **Project Management & Leadership**
+- **Effective Management of Projects and Teams** — *Santander Open Academy* (2026)
 - **Project Management & Agile Methodology Fundamentals** — *Santander Open Academy* (2026)
+- **Leadership in the Digital Environment** — *Santander Open Academy* (2026)
 - **Leadership** — *Santander Open Academy* (2026)
+- **Communicate with Impact and Influence** — *Santander Open Academy* (2026)
 - **Effective Communication** — *Santander Open Academy* (2026)
+- **Negotiation** — *Santander Open Academy* (2026)
+- **Critical Thinking and Problem Solving** — *Santander Open Academy* (2026)
+- **Innovation and Creativity: Develop Your Creative Thinking Step by Step** — *Santander Open Academy* (2026)
 
 **Software Development & Technology**
+- **Back End en serio: Node.JS, express y las claves en la industria TI 2025** — *Desafío Latam* (2026)
+- **React in action: From zero to expert in Front End Development** — *Desafío Latam* (2026)
 - **Introduction to Web Development** — *Desafío Latam* (2026)
+- **Learn Power BI from scratch** — *Desafío Latam* (2026)
 - **Power BI Data Analysis** — *Santander Open Academy* (2026)
-- **Programming Fundamentals & Micro:Bit** (2024)
-- **Robotics & Computational Thinking** — *Faculty of Engineering (UdelaR)*
-
-> **Currently Learning:** *Copilot: Mastering AI in Microsoft 365*
+- **Programming Fundamentals & Micro:Bit** - *Ceibal* (2024)
+- **Robotics & Computational Thinking** — *Faculty of Engineering (UdelaR)* (2016)
 
 ---
 
@@ -224,6 +236,13 @@ My proven track record includes managing multidisciplinary teams, defining strat
 
 <br/>
 <br/>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/alearecuest/alearecuest?style=flat-square&color=7aa2f7&label=Latest+Update" alt="Last Update"/>
+  <img src="https://img.shields.io/badge/Status-Active%20Learning-success?style=flat-square" alt="Status"/>
+</p>
 
 <p align="center">
   <b><i>"Bridging Science and Technology to build Impactful Solutions"</i></b>
