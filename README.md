@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/alearecuest/alearecuest/blob/main/logo.png" width="100%" alt="Alejandro Arevalo Banner"/>
+</p>
+
 # Hi, I'm Alejandro Arévalo
 
 ## Technical Project Manager | Full-Stack Developer<p align="center">
