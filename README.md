@@ -234,13 +234,14 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alearecuest&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
+<br/>
+
 ---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
-<br/>
 <br/>
 
 ---
@@ -249,6 +250,8 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
   <img src="https://img.shields.io/github/last-commit/alearecuest/alearecuest?style=flat-square&color=7aa2f7&label=Latest+Update" alt="Last Update"/>
   <img src="https://img.shields.io/badge/Status-Active%20Learning-success?style=flat-square" alt="Status"/>
 </p>
+
+---
 
 <p align="center">
   <b><i>"Bridging Science and Technology to build Impactful Solutions"</i></b>
