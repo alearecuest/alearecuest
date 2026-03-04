@@ -34,16 +34,22 @@
 ---
 
 ### Highlights
-- **14+ years** leading multidisciplinary teams and delivering software products end-to-end
-- **NASA Space Apps (National recognition)** — 2024 & 2025
-- Building at the intersection of **AI + HealthTech + Science** (Biotech/Bioinformatics background)
+- **14+ years** eading multidisciplinary teams and delivering software products in ***scientific and technical environments***.
+- **NASA Space Apps National Excellence Award (2025)** — Recognized for outstanding innovation in space-tech.
+- **AI Engineering Fellow @Anyone AI** — Specializing in ***Agentic AI*** (*LangGraph*) and production-grade architectures.
+- Building at the intersection of ***AI + HealthTech + Science*** (Biotech/Bioinformatics background).
 
 ---
 
 ### About Me
-Technical Project Manager & Full-Stack Developer bringing **14+ years of team leadership** and a strong scientific background to the tech industry. I specialize in bridging the gap between complex requirements and technical execution, delivering scalable solutions with a focus on **HealthTech, AI, and data-driven** projects.
+I thrive at the intersection of ***Leadership, Science, and High-Level Engineering***. With 14+ years of experience managing multidisciplinary teams, I specialize in transforming complex, data-heavy requirements into scalable software products.
 
-My proven track record includes managing multidisciplinary teams, defining strategic roadmaps, and developing ***Award-Winning Software*** (**NASA Space Apps** — National recognition). With expertise in Agile methodologies, modern full-stack development, and artificial intelligence, I lead projects from conception to deployment, combining strategic vision with hands-on technical precision.
+My profile is a unique blend of:
+- **AI & Full-Stack Engineering:** Currently an ***AI Engineering Fellow at Anyone AI***, specializing in **Agentic AI orchestration** (*LangGraph*) and production observability (*LangFuse*). I build high-impact applications using TypeScript, Fastify (*Node.js*), and LLM integration, moving beyond traditional Python notebooks to create robust, deployable AI architectures.
+- **Technical Project Management:** A decade-long track record of defining strategic roadmaps and leading teams to deliver excellence, recognized with the ***National Excellence Award at the NASA Space Apps Challenge (2025)***.
+- **Scientific Rigor:** My background in *Biotechnology* allows me to bring analytical precision to the tech industry, ensuring technical solutions meet the rigorous standards of ***HealthTech and BioTech*** ecosystems.
+
+I am focused on building ***AI-powered solutions*** that solve real-world problems through advanced orchestration and scalable software architecture.
 
 ---
 
