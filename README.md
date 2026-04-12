@@ -4,7 +4,7 @@
 
 # Hi, I'm Alejandro Arévalo
 
-## Technical Project Manager | Full-Stack Developer<p align="center">
+## Technical Project Manager | Full-Stack Developer | AIT Optic Engineer<p align="center">
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alearecuest&theme=tokyonight" alt="Profile Details"/>
