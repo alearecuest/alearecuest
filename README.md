@@ -24,7 +24,7 @@
   <a href="mailto:aarevalo@fcien.edu.uy">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://rxresu.me/alearecuest/cv-alejandro-arevalo-technical-pm-full-stack" target="_blank">
+  <a href="https://rxresu.me/alearecuest/alejandro-arevalo" target="_blank">
     <img src="https://img.shields.io/badge/CV-1A73E8?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Curriculum Vitae"/>
   </a>
   <a href="https://github.com/alearecuest" target="_blank">
