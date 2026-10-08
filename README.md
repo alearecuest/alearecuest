@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/alearecuest/alearecuest/blob/main/logo.png" width="100%" alt="Alejandro Arevalo Banner"/>
   <img src="https://raw.githubusercontent.com/alearecuest/alearecuest/main/logo.png" ... />
 </p>
 
@@ -12,6 +11,10 @@
 </p>
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58595B&center=true&vCenter=true&width=820&lines=Technical+Project+Manager;Full-Stack+Developer;AI+%2F+Data+%2F+HealthTech;Biotech+%2F+Bioinformatics+Background;NASA+Space+Apps+%E2%80%94+National+Recognition;14%2B+Years+Leading+Teams" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58595B&center=true&vCenter=true&width=820&lines=Technical+Project+Manager;Full-Stack+Developer;AI+%2F+Data+%2F+HealthTech;Biotech+%2F+Bioinformatics+Background;NASA+Space+Apps+%E2%80%94+National+Recognition;14%2B+Years+Leading+Teams" alt="Typing SVG"/>
 </p>
 
 <p align="left">
