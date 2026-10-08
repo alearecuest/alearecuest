@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/CV-1A73E8?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Curriculum Vitae"/>
   </a>
   <a href="https://github.com/alearecuest" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=alearecuest&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://hits.dwyl.com/alearecuest/alearecuest.svg?style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   </a>
 </p>
 
