@@ -46,7 +46,7 @@
 I thrive at the intersection of ***Leadership, Science, and High-Level Engineering***. With 14+ years of experience managing multidisciplinary teams, I specialize in transforming complex, data-heavy requirements into scalable software products.
 
 My profile is a unique blend of:
-- **AI & Full-Stack Engineering:** Currently an ***AI Engineering Fellow at Anyone AI***, specializing in **Agentic AI orchestration** (*LangGraph*) and production observability (*LangFuse*). I build high-impact applications using TypeScript, Fastify (*Node.js*), and LLM integration, moving beyond traditional Python notebooks to create robust, deployable AI architectures.
+- **AI & Full-Stack Engineering:** As a graduate of the ***AI Engineering Fellowship at Anyone AI***, I specialize in **Agentic AI orchestration** (*LangGraph*) and production observability (*LangFuse*). I build high-impact applications using TypeScript, Fastify (*Node.js*), and LLM integration, moving beyond traditional Python notebooks to create robust, deployable AI architectures and orchestrate models directly into production environments.
 - **Technical Project Management:** A decade-long track record of defining strategic roadmaps and leading teams to deliver excellence, recognized with the ***National Excellence Award at the NASA Space Apps Challenge (2025)***.
 - **Scientific Rigor:** My background in *Biotechnology* allows me to bring analytical precision to the tech industry, ensuring technical solutions meet the rigorous standards of ***HealthTech and BioTech*** ecosystems.
 
@@ -81,6 +81,9 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ---
 
@@ -98,6 +101,7 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -113,6 +117,9 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
   <tr>
     <td align="center" valign="middle" width="20%">
       <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="420" height="180" alt="ELIO"/>
+    </td>
+    <td align="center" valign="middle" width="20%">
+      <img src="https://img.shields.io/badge/NASA_AI_Models-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" width="140" alt="NASA AI Projects"/>
     </td>
     <td align="center" valign="middle" width="20%">
       <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="140" alt="NASA Space Challenge"/>
@@ -132,6 +139,9 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
       <b><a href="https://github.com/alearecuest/ELIO-final_project">ELIO</a></b>
     </td>
     <td align="center" valign="middle">
+      <b><a href="https://github.com/alearecuest/proyectos-nasa">NASA AI End-to-End</a></b>
+    </td>
+    <td align="center" valign="middle">
       <b><a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">NASA Space Challenge</a></b>
     </td>
     <td align="center" valign="middle">
@@ -144,27 +154,21 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
       <b><a href="https://github.com/alearecuest/HBnB__Holberton_Clone">HBNB Clone (TypeScript)</a></b>
     </td>
   </tr>
-  <tr>
+ <tr>
     <td valign="top">
-      <b>Backend Developer & Technical Lead</b><br/>
-      Led a multidisciplinary team to build an AI-driven clinical assistant for healthcare professionals. Developed with Angular, Fastify, TypeScript & Google Gemini AI.
+      <b>Led</b> a multidisciplinary team to build an AI-driven clinical assistant for healthcare professionals. Developed with Angular, Fastify, TypeScript & Google Gemini AI.
     </td>
     <td valign="top">
-      <b>National recognition</b><br/>
-      <b>2025:</b> Asteroid Simulator (React)<br/>
-      <b>2024:</b> Exoplanet Detection (Product Owner)
+      <b>Achieved</b> National Recognition (2025) for building an Asteroid Simulator (React), and led Exoplanet Detection as Product Owner (2024).
     </td>
     <td valign="top">
-      <b>Project Lead & Developer (Volunteer)</b><br/>
-      Long-term collaboration with the Stanford Solar Center. Developed custom software for solar radiation analysis and data collection.
+      <b>Architected</b> an end-to-end microservices suite integrating NASA-IBM foundation models for Computer Vision (Lunar AI), Time-Series, and NLP semantic search.
     </td>
     <td valign="top">
-      <b>Full-Stack Developer</b><br/>
-      AirBnB-inspired web app (Python/Flask) featuring user registration, property booking, and database management.
+      <b>Developed</b> custom software and maintained hardware for solar radiation analysis in long-term collaboration with the Stanford Solar Center.
     </td>
     <td valign="top">
-      <b>Personal Project</b><br/>
-      Modern AirBnB clone built from scratch using TypeScript + Vite to implement best coding practices, clean architecture, and modern UI.
+      <b>Built</b> a modern property booking platform from scratch using TypeScript + Vite to implement best coding practices and clean architecture.
     </td>
   </tr>
 </table>
@@ -173,7 +177,7 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
 
 ### Education
 
-**Machine Learning & AI Development** — Anyone AI | In progress 2026  
+**Machine Learning & AI Development** — Anyone AI | Graduated in 2026  
 > Advanced training focusing on Machine Learning models, Data Science, and the integration of Artificial Intelligence into scalable applications.
 
 **Full-Stack Software Engineering** — Holberton School | Graduated in 2025  
@@ -181,6 +185,9 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
 
 **Biotechnology (Academic Background)** — Universidad de la República  
 > Solid scientific foundation with a focus on Bioinformatics and Computational Biology. This analytical background enables me to deeply understand and build specialized software for HealthTech and scientific research.
+
+**Physics & Astronomy (Undergraduate Coursework)** — Universidad de la República (Facultad de Ciencias)  
+> Advanced studies in physical sciences, orbital mechanics, and observational astronomy. This academic foundation underpins my 14+ years of experience as a Physics educator and directly supports my current technical work in Space-Tech, AIT Optics, and scientific software engineering.
 
 ---
 
