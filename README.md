@@ -4,7 +4,7 @@
 
 # Hi, I'm Alejandro Arévalo
 
-## Technical Project Manager | Full-Stack Developer | AIT Optic Engineer<p align="center">
+## Technical Project Manager | Full-Stack Developer
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alearecuest&theme=tokyonight" alt="Profile Details"/>
@@ -38,6 +38,7 @@
 - **14+ years** leading multidisciplinary teams and delivering software products in ***scientific and technical environments***.
 - **NASA Space Apps National Excellence Award (2025)** — Recognized for outstanding innovation in space-tech.
 - **AI Engineering Fellow @Anyone AI** — Specializing in ***Agentic AI*** (*LangGraph*) and production-grade architectures.
+- **AIT Optical Engineering @ Satellogic** (6 months) — Hands-on experience in satellite optical payload assembly, integration & testing, with GitLab-based engineering workflows.
 - Building at the intersection of ***AI + HealthTech + Science*** (Biotech/Bioinformatics background).
 
 ---
