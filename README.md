@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://github.com/alearecuest/alearecuest/blob/main/logo.png" width="100%" alt="Alejandro Arevalo Banner"/>
+  <img src="https://raw.githubusercontent.com/alearecuest/alearecuest/main/logo.png" ... />
 </p>
 
 # Hi, I'm Alejandro Arévalo
@@ -34,7 +35,7 @@
 ---
 
 ### Highlights
-- **14+ years** eading multidisciplinary teams and delivering software products in ***scientific and technical environments***.
+- **14+ years** leading multidisciplinary teams and delivering software products in ***scientific and technical environments***.
 - **NASA Space Apps National Excellence Award (2025)** — Recognized for outstanding innovation in space-tech.
 - **AI Engineering Fellow @Anyone AI** — Specializing in ***Agentic AI*** (*LangGraph*) and production-grade architectures.
 - Building at the intersection of ***AI + HealthTech + Science*** (Biotech/Bioinformatics background).
