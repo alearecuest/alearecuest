@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alearecuest/alearecuest/main/logo.png" ... />
+  <img src="https://raw.githubusercontent.com/alearecuest/alearecuest/main/logo.png" width="100%" alt="Alejandro Arevalo Banner"/>
 </p>
 
 # Hi, I'm Alejandro Arévalo
@@ -37,7 +37,7 @@
 ### Highlights
 - **14+ years** leading multidisciplinary teams and delivering software products in ***scientific and technical environments***.
 - **NASA Space Apps National Excellence Award (2025)** — Recognized for outstanding innovation in space-tech.
-- **AI Engineering Fellow @AnyoneAI** — Specializing in ***Agentic AI*** (*LangGraph*) and production-grade architectures.
+- **AI Engineering Fellow @Anyone AI** — Specializing in ***Agentic AI*** (*LangGraph*) and production-grade architectures.
 - **AIT Optical Engineering @Satellogic** (6 months) — Hands-on experience in satellite optical payload assembly, integration & testing, with GitLab-based engineering workflows.
 - Building at the intersection of ***AI + HealthTech + Science*** (Biotech/Bioinformatics background).
 
@@ -83,8 +83,7 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
@@ -118,13 +117,13 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
 <table>
   <tr>
     <td align="center" valign="middle" width="33%">
-      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="420" height="180" alt="ELIO"/>
+      <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" height="120" alt="ELIO"/>
     </td>
     <td align="center" valign="middle" width="33%">
-      <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="140" alt="NASA Space Challenge"/>
+      <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" height="120" alt="NASA Space Challenge"/>
     </td>
     <td align="center" valign="middle" width="33%">
-      <img src="https://img.shields.io/badge/NASA_AI_Models-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" width="140" alt="NASA AI Projects"/>
+      <img src="https://img.shields.io/badge/NASA_AI_Models-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" width="200" alt="NASA AI Projects"/>
     </td>
   </tr>
   <tr>
@@ -152,13 +151,13 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
 
   <tr>
     <td align="center" valign="middle" width="33%">
-      <img src="https://github.com/alearecuest/SuperSID_Pro/raw/main/assets/icons/banner_SuperSID.png" width="90" alt="SuperSID"/>
+      <img src="https://github.com/alearecuest/SuperSID_Pro/raw/main/assets/icons/banner_SuperSID.png" height="120" alt="SuperSID"/>
     </td>
     <td align="center" valign="middle" width="33%">
-      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="140" alt="HBNB Python"/>
+      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" height="120" alt="HBNB Python"/>
     </td>
     <td align="center" valign="middle" width="33%">
-      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="140" alt="HBNB TypeScript"/>
+      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" height="120" alt="HBNB TypeScript"/>
     </td>
   </tr>
   <tr>
