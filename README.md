@@ -115,23 +115,14 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="20%">
+    <td align="center" valign="middle" width="33%">
       <img src="https://github.com/alearecuest/alearecuest/raw/main/banner.png" width="420" height="180" alt="ELIO"/>
     </td>
-    <td align="center" valign="middle" width="20%">
-      <img src="https://img.shields.io/badge/NASA_AI_Models-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" width="140" alt="NASA AI Projects"/>
-    </td>
-    <td align="center" valign="middle" width="20%">
+    <td align="center" valign="middle" width="33%">
       <img src="https://github.com/alearecuest/alearecuest/raw/main/logoNASAChallenge.png" width="140" alt="NASA Space Challenge"/>
     </td>
-    <td align="center" valign="middle" width="20%">
-      <img src="https://github.com/alearecuest/SuperSID_Pro/raw/main/assets/icons/banner_SuperSID.png" width="90" alt="SuperSID"/>
-    </td>
-    <td align="center" valign="middle" width="20%">
-      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="140" alt="HBNB Clone"/>
-    </td>
-    <td align="center" valign="middle" width="20%">
-      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="140" alt="HBNB TypeScript"/>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://img.shields.io/badge/NASA_AI_Models-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" width="140" alt="NASA AI Projects"/>
     </td>
   </tr>
   <tr>
@@ -139,22 +130,13 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
       <b><a href="https://github.com/alearecuest/ELIO-final_project">ELIO</a></b>
     </td>
     <td align="center" valign="middle">
-      <b><a href="https://github.com/alearecuest/proyectos-nasa">NASA AI End-to-End</a></b>
-    </td>
-    <td align="center" valign="middle">
       <b><a href="https://github.com/alearecuest/NASA_SpaceChallenge_UY">NASA Space Challenge</a></b>
     </td>
     <td align="center" valign="middle">
-      <b><a href="https://github.com/alearecuest/SuperSID_Pro">SuperSID Pro</a></b>
-    </td>
-    <td align="center" valign="middle">
-      <b><a href="https://github.com/alearecuest/holbertonschool-hbnb">HBNB Clone</a></b>
-    </td>
-    <td align="center" valign="middle">
-      <b><a href="https://github.com/alearecuest/HBnB__Holberton_Clone">HBNB Clone (TypeScript)</a></b>
+      <b><a href="https://github.com/alearecuest/proyectos-nasa">NASA AI End-to-End</a></b>
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top">
       <b>Led</b> a multidisciplinary team to build an AI-driven clinical assistant for healthcare professionals. Developed with Angular, Fastify, TypeScript & Google Gemini AI.
     </td>
@@ -164,11 +146,39 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
     <td valign="top">
       <b>Architected</b> an end-to-end microservices suite integrating NASA-IBM foundation models for Computer Vision (Lunar AI), Time-Series, and NLP semantic search.
     </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://github.com/alearecuest/SuperSID_Pro/raw/main/assets/icons/banner_SuperSID.png" width="90" alt="SuperSID"/>
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="140" alt="HBNB Python"/>
+    </td>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://github.com/alearecuest/holbertonschool-hbnb/raw/main/hbnb.png" width="140" alt="HBNB TypeScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <b><a href="https://github.com/alearecuest/SuperSID_Pro">SuperSID Pro</a></b>
+    </td>
+    <td align="center" valign="middle">
+      <b><a href="https://github.com/alearecuest/holbertonschool-hbnb">HBNB Clone (Python)</a></b>
+    </td>
+    <td align="center" valign="middle">
+      <b><a href="https://github.com/alearecuest/HBnB__Holberton_Clone">HBNB Clone (TS)</a></b>
+    </td>
+  </tr>
+  <tr>
     <td valign="top">
       <b>Developed</b> custom software and maintained hardware for solar radiation analysis in long-term collaboration with the Stanford Solar Center.
     </td>
     <td valign="top">
-      <b>Built</b> a modern property booking platform from scratch using TypeScript + Vite to implement best coding practices and clean architecture.
+      <b>Built</b> a full-stack property booking platform using <b>Python and Flask</b>, demonstrating robust backend architecture and database management.
+    </td>
+    <td valign="top">
+      <b>Rebuilt</b> the booking platform from scratch using <b>TypeScript and Vite</b> to implement modern UI patterns and clean component architecture.
     </td>
   </tr>
 </table>
