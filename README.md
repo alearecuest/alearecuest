@@ -37,8 +37,8 @@
 ### Highlights
 - **14+ years** leading multidisciplinary teams and delivering software products in ***scientific and technical environments***.
 - **NASA Space Apps National Excellence Award (2025)** — Recognized for outstanding innovation in space-tech.
-- **AI Engineering Fellow @Anyone AI** — Specializing in ***Agentic AI*** (*LangGraph*) and production-grade architectures.
-- **AIT Optical Engineering @ Satellogic** (6 months) — Hands-on experience in satellite optical payload assembly, integration & testing, with GitLab-based engineering workflows.
+- **AI Engineering Fellow @AnyoneAI** — Specializing in ***Agentic AI*** (*LangGraph*) and production-grade architectures.
+- **AIT Optical Engineering @Satellogic** (6 months) — Hands-on experience in satellite optical payload assembly, integration & testing, with GitLab-based engineering workflows.
 - Building at the intersection of ***AI + HealthTech + Science*** (Biotech/Bioinformatics background).
 
 ---
