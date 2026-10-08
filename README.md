@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/CV-1A73E8?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Curriculum Vitae"/>
   </a>
   <a href="https://github.com/alearecuest" target="_blank">
-    <img src="https://hits.dwyl.com/alearecuest/alearecuest.svg?style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=alearecuest.alearecuest&left_color=blueviolet&right_color=brightgreen&left_text=Profile%20Views" alt="Profile Views"/>
   </a>
 </p>
 
@@ -249,7 +249,7 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alearecuest/alearecuest/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/alearecuest/alearecuest/main/profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D Contribution Graph" width="700"/>
 </p>
 
 <br/>
