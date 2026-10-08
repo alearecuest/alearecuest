@@ -249,7 +249,7 @@ I am focused on building ***AI-powered solutions*** that solve real-world proble
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alearecuest&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alearecuest&bg_color=1a1d2d&color=7aa2f7&line=7aa2f7&point=f7768e&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <br/>
